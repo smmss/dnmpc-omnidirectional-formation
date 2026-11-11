@@ -1,0 +1,4 @@
+casadi/
+results/
+*.asv
+*.mex*
